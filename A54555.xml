@@ -1,0 +1,502 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The petition of the oppressed market people, humbly offer'd to the consideration of the Lord Mayor, Aldermen, and Common Council of the City of London</title>
+         </titleStmt>
+         <extent>Approx. 55KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A54555</idno><idno type="EEBO-CITATION">99828960</idno>
+  <idno type="VID">33393</idno>
+  <idno type="EEBO-PROQUEST">2248495638</idno>
+  
+            <idno type="STC">Wing P1825A</idno>
+            <idno type="STC">ESTC R217269</idno>
+            <idno type="PROQUEST">99828960</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99828960e"/>
+            <note>(EEBO-TCP ; phase 2, no. A54555)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 33393)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1934:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The petition of the oppressed market people, humbly offer'd to the consideration of the Lord Mayor, Aldermen, and Common Council of the City of London</title>
+                  <author>City of London (England). Court of Common Council.</author>
+               </titleStmt>
+               <extent>20 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1699]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication from Wing; latest internal date is 1698 [i.e. 1699].</note>
+                  <note>A collection of documents relating to extortionate rates charged by the farmers of London market to stall holders.</note>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">City of London (England). --  Court of Common Council --  Early works to 1800.</term>
+               <term type="topical_term">Farmers' markets --  England --  London --  Early works to 1800.</term>
+               <term type="geographic_name">London (England) --  Commerce --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="petition">
+            <pb facs="tcp:33393:1"/>
+            <pb n="1" facs="tcp:33393:1"/>
+            <head>The Petition of the Oppressed Market People, Humbly Offer'd to the Consideration of the <hi>Lord Mayor, Aldermen,</hi> and <hi>Common Council</hi> of the City of <hi>London.</hi>
+            </head>
+            <opener>Humbly Sheweth,</opener>
+            <p>THAT some of your Petitioners, with many others, did in the Year 1696. set forth and prove before a Committee of this Court, many Enormities and Oppressions committed by the Farmers of the City Markets, which the said Com<g ref="char:EOLhyphen"/>mittee did represent to this Court, in a Report to them made the 29th of <hi>July,</hi> 1696. which was to the Effect fol<g ref="char:EOLhyphen"/>lowing; (<hi>viz.</hi>) That they found upon a strict Enquiry, that the Rates re<g ref="char:EOLhyphen"/>ceived by the Farmers of the Market-People did amount to above Ten Thousand Pounds <hi>per Annum,</hi> and that they had received of the then Te<g ref="char:EOLhyphen"/>nants above Two Thousand Pounds by way of Fines, for admitting Market People into Stalls and Standings: And that they did believe great Sums were Exacted by way of Rents and Fines, that were then undiscovered thro the Dread many of the Market People were under of being farther Oppres<g ref="char:EOLhyphen"/>sed by the said Farmers, in case the City did not give them Relief.</p>
+            <p>They also set forth, That they had Examined the Farmers Lease, and likewise the Act of Common Council made in Sir <hi>William Hooker</hi>'s Mayoral<g ref="char:EOLhyphen"/>ty, and did find, That the said Farmers had taken greater Rates than they ought to have done, extorting the same by all the Ill Usages imaginable; As by putting the People to Vexatious Suits, Arresting, Imprisoning, and Ruining many of them; and thereby forcing them from the Markets, to the Inhancing the Rates of Provisions, <hi>&amp;c.</hi> Which Report was Signed by Sir <hi>William Gore,</hi> Deputy <hi>Sherbrooke,</hi> Deputy <hi>Parker,</hi> Mr. <hi>Rowland,</hi> and divers others of the said Committee. And the same being read in this Court, the effectual Relieving of the Market People was committed to the said Committee, who were impowered to advise with what Council they thought fit, and to receive Money of the Chamberlain for that end; Pursuant to which Order the said Committee took great pains, and made a conside<g ref="char:EOLhyphen"/>rable progress in Redressing the Abuses complained of; They causing a Table of Rates to be Printed and Published, with Instructions to the Mar<g ref="char:EOLhyphen"/>ket People how to behave themselves; and Mr. <hi>Burdett,</hi> one of the said
+<pb n="2" facs="tcp:33393:2"/> Farmers and Principal Managers of the Markets, being Indicted for Ex<g ref="char:EOLhyphen"/>tortion, was upon a fair Trial before the Lord Chief Justice <hi>Holt,</hi> found Guilty of the same; who being a second time brought upon Tryal on an<g ref="char:EOLhyphen"/>other Indictment for the same Crime, he did by his Council pray that all Differences between the Farmers and the Market People might by a Rule of the Court of <hi>King's-Bench</hi> be referred to the final Determination of Sir <hi>Nathan Wright,</hi> one of the King's Serjeants at Law, and Sir <hi>Bartholomew Showor,</hi> Kt. as Arbitrators, and to the Umpirage of the Lord Chief Justice <hi>Holt;</hi> which was Assented to by the King's Council on the behalf of the Market People. And an Award was made and published (founded upon a Rule of the said Court of <hi>King's Bench</hi>) by the said Arbitrators, they being assisted therein by Sir <hi>William Hedges,</hi> Kt. and Alderman, and by Deputy <hi>Parker,</hi> Deputy <hi>Sherbrook,</hi> Mr. <hi>Rowland,</hi> Mr. <hi>Grevill,</hi> and others of the said Committee appointed as aforesaid. In which said Award, not only all Extortious Bonds and Notes were ordered to be delivered up to the Market People by the Farmers. But Mr. <hi>Burdett</hi> and <hi>Killner</hi> were likewise ordered and obliged to pay unto Mr. Deputy <hi>Parker</hi> and Mr. <hi>Grevill</hi> the Sum of Four Hundred Pound, to be distributed by them (Cost of Suit being deducted) amongst such Market People whose Names were incerted in a Schedule annexed unto the said Award. Which was some Sa<g ref="char:EOLhyphen"/>tisfaction for the Money wrongfully taken from them by the Farmers: And the said Arbitrators made divers Excellent Rules and Orders, which your Petitioners were in hopes would have kept the Farmers within due Bounds. But Mr. <hi>Burdett</hi> soon after quitted his Station in the said Farm, and your Petitioners are informed, a new Demise hath since been made there<g ref="char:EOLhyphen"/>of unto Mr. <hi>Killner</hi> and others, whereby your Petitioners and other Mar<g ref="char:EOLhyphen"/>ket People are, as we are told, deprived of the Benefit of the said Award, and the said Mr. <hi>Killner</hi> is now the principal Manager of the Markets, who Repeats and Continues the Abuses your Petitioners formerly com<g ref="char:EOLhyphen"/>plained of, to our very great Burden and Oppression.</p>
+            <p>And the said Committee being discontinued, some poor Market People did the last Term set forth some of their Oppressions by Affidavits in the Court of <hi>King's-Bench,</hi> which Court did then Order an Information for Extortion to be exhibited against Mr. <hi>Killner,</hi> which came to be Tried before the Lord Justice <hi>Holt,</hi> at <hi>Guildhall,</hi> on Tuesday the 9th of this In<g ref="char:EOLhyphen"/>stant <hi>May,</hi> when before the Council for the King had half gone through their Evidence, Mr. <hi>Killner</hi>'s Council prayed, That all Matters in Diffe<g ref="char:EOLhyphen"/>rence between the Farmers and the Prosecutors, might by a Rule of the Court of <hi>King-Bench</hi> be referred to the former Arbitrators, and the Um<g ref="char:EOLhyphen"/>pirage of the said Lord Chief Justice, which was agreed unto by the Coun<g ref="char:EOLhyphen"/>cil for the King. But the said Reference extending only to the Persons named in the Information; And there being Hundreds more under the like Oppressions, and the Proceedings in Courts of Justice so Expensive and tedious; And the Farmers being able to out-do your Petitioners and others with Money, there is no hopes of being generally and effectually
+<pb n="3" facs="tcp:33393:2"/> Relieved, but by Application to the next Sessions of Parliament, un<g ref="char:EOLhyphen"/>less this Honourable Court do in the mean time take our deplorable Condition into their serious Consideration, and once more give us leave to manifest the Truth of our Complaints before such Committee as this Honourable Court shall appoint: And otherwise provide for our Redress according to the Merits of our Case; which is the Humble Supplication of your Petitioners, on behalf of our selves and Fellow Sufferers.</p>
+            <closer>And for which your Petitioners shall ever Pray, <hi>&amp;c.</hi>
+            </closer>
+            <argument>
+               <p>
+                  <hi>Note,</hi> This Petition was designed to have been Presented to the Common Council the 17th of <hi>May, 1699.</hi> but was prevented by an Accident.</p>
+            </argument>
+         </div>
+         <div type="legal_documents">
+            <div type="abstract">
+               <head>An Abstract of an Information for Extortion exhibited against Mr. <hi>Thomas Killner,</hi> one of the Farmers of the City Markets, by Virtue of a Rule of the Court of <hi>King's-Bench</hi> in <hi>Hillary-Term, 1698/9.</hi>
+               </head>
+               <head type="sub">Dominus Rex <hi>versus</hi> Thomas Killner.</head>
+               <p>THE Information sets forth, That the Defendant on the 3d of <hi>De<g ref="char:EOLhyphen"/>cember, Anno 10. Regis nunc,</hi> at <hi>London</hi> in the Parish of St. <hi>Faith</hi>'s, in the Ward of <hi>Farringdon</hi> within, then and yet being one of the Far<g ref="char:EOLhyphen"/>mers of the Markets of the City of <hi>London,</hi> and of the Tolls, Dues, and Profits thereby arising, by colour of his said Farm, and under pre<g ref="char:EOLhyphen"/>tence of his said Office of one of the Farmers, <hi>&amp;c.</hi> Unlawfully and Ex<g ref="char:EOLhyphen"/>tortiously required, took and had of one <hi>Joan Laxton</hi> Widow 3 <hi>l. 2 s. 6 d.</hi> for permitting her to have the use of a Board about four Foot long, and two Foot six Inches broad, for selling and exposing to sale of Meat and other Victuals upon, in <hi>Newgate</hi> Market, for the space of twenty<g ref="char:EOLhyphen"/>five Weeks then past (to wit) 2 <hi>s. 6 d. per</hi> Week, whereas the Defen<g ref="char:EOLhyphen"/>dant ought not to have received or required of the said <hi>Joan,</hi> for the use of the said Board, more than 18 <hi>s. 9 d.</hi> (to wit) 9d. <hi>per</hi> Week.</p>
+               <p>That the Defendant on the 4th of <hi>February, Anno 10. praedict,</hi> at <hi>London,</hi> in the said Parish and in <hi>Castle-Baynard</hi> Ward, then and yet being one of the Farmers, <hi>&amp;c.</hi> Unjustly, Unlawfully and Extortiously took of one <hi>Mary Palmer</hi> the Wife of <hi>Samuel Palmer, 4 s. 8 d.</hi> for per<g ref="char:EOLhyphen"/>mitting her to have the use of a Board about five Foot long and three Foot broad in <hi>Newgate</hi> Market aforesaid, for selling and exposing to sale of Butter, Eggs, Oat-cakes, Hogs-Puddings and Sausages upon, for the space of two Weeks then past (to wit) 2 <hi>s. 4 d. per</hi> Week, whereas he ought not to have received of the said <hi>Mary,</hi> for the use of the said Board, more than 2 <hi>s.</hi> (to wit) 1 <hi>s. per</hi> Week.</p>
+               <pb n="4" facs="tcp:33393:3"/>
+               <p>Also, that on the said 4th of <hi>February</hi> in the Parish and Ward last mentioned, the Defendant unlawfully and extortiously took of one <hi>Anne Milbourn,</hi> Wife of <hi>Daniel Milbourne, 40s.</hi> for permitting her to place two Dossars in <hi>Newgate</hi> Market, for selling and exposing to sale of Flesh, Butter, and other Provisions upon, for the space of eighty days then past, whereas he ought not to have received or required of the said <hi>Anne</hi> for permitting her to put her said Dossars in the said Market for the said eighty days, more than 13 <hi>s. 4 d.</hi> (to wit) 2 <hi>d. per</hi> Day.</p>
+               <p>And that the Defendant on the said 4th of <hi>February</hi> at <hi>London,</hi> in the Parish of St. <hi>Faith</hi> and Ward of <hi>Farringdon</hi> within, Unlawfully, Extor<g ref="char:EOLhyphen"/>tiously, <hi>&amp;c.</hi> took of the several Persons following the several Sums after-mentioned, (<hi>viz</hi>) of one <hi>Mary Cooke,</hi> Wife of <hi>John Cooke, 4l. 13 s. 4 d.</hi> for permitting her to have the use of a Stall in <hi>Newgate</hi> Market, about five Foot long and eighteen Inches broad, to sell Meat and other Victuals upon for the space of Forty Weeks, (to wit) 2 <hi>s. 4 d. per</hi> Week, whereas he ought not to have received of the said <hi>Mary</hi> for the use of the said Stall for the said Forty Weeks more than 40 <hi>s.</hi> (to wit) 1 <hi>s. per</hi> Week. And of one <hi>Anne Geeves,</hi> Wife of <hi>John Geeves, 14 s. 8 d.</hi> for admitting her to use a Board in <hi>Newgate</hi> Market, about six Foot long and two Foot and an half broad, for selling Meat and other Victuals upon, for Four Weeks then past, (to wit) 3 <hi>s. 8 d. per</hi> Week, whereas he could not lawfully have received or required of the said <hi>Anne,</hi> for the use of the said Board, for the said Four Weeks more than 5 <hi>s. 4 d.</hi> (to wit) 1 <hi>s. 4 d. per</hi> Week. Also of one <hi>Mary Bignell,</hi> Wife of <hi>William Bignell, 5l.</hi> for suffering her to use a Board about six Foot long and two Foot six Inches broad in the said Market, for selling Meat and other Victuals upon, for the space of Forty Weeks then past, (to wit) 2 <hi>s. 6 d. per</hi> Week, whereas he ought not to have received or required of the said <hi>Mary,</hi> for the use of the said Board for the said Forty Weeks more than 53 <hi>s. 4 d.</hi> (to wit) 1 <hi>s. 4 d. per</hi> Week. Also of one <hi>Elizabeth Page,</hi> Widow, 4 <hi>l. 13 s. 4 d.</hi> for permitting her to have the use of a Board about six Foot long and three Foot six Inches broad in the said Market, for selling Meat and other Victuals upon, for the space of Forty Weeks past, (to wit) 2 <hi>s. 4 d. per</hi> Week, whereas he ought not to have received or required of the said <hi>Elizabeth</hi> for the use of the said Board for the said Forty Weeks more than 53 <hi>s. 4 d.</hi> (to wit) 1 <hi>s. 4 d. per</hi> Week. And also of one <hi>Anne Sutton,</hi> Wife of <hi>John Sutton, 3l.</hi> for permitting her to place and put two Dossars in the said Market, for selling Meat, Butter and other Victuals upon, for the space of Forty Weeks then past; whereas the said <hi>Anne</hi> placed her said Dossars in the said Market no more than two Days in any one Week of the said Forty Weeks, and by reason thereof the Defendant ought not to have received or required of the said <hi>Anne</hi> more than <hi>2d. per</hi> Day for every Day of the said Days wherein she so placed her Dossars in the said Market. </p>
+               <pb n="5" facs="tcp:33393:3"/>
+               <p>To the great Damage, Oppression and Impoverishment of the said <hi>Joan Laxton, Samuel Palmer, Daniel Milbourne, John Cooke, John Geeves, William Bignell, Elizabeth Page,</hi> and <hi>John Sutton,</hi> to the Aug<g ref="char:EOLhyphen"/>menting and Exalting the Price of Meat, Victuals, and other Provi<g ref="char:EOLhyphen"/>sions sold in the Publick Markets of the said City, to the hindrance and discouragement of Market People and other His Majesty's Subjects from bringing good Victuals, Provisions and Merchandizes to the said Markets to be sold, to the great prejudice, expence and loss of the Citi<g ref="char:EOLhyphen"/>zens and Inhabitants of the said City, and of all persons (especially the Poor) buying such Victuals, Provisions and Merchandizes in the said Markets, to the very evil and pernicious example of all others in the like case offending, and against the Peace of our Lord the King, his Crown and Dignity, <hi>&amp;c.</hi>
+               </p>
+            </div>
+            <div type="legal_case">
+               <head>The CASE.</head>
+               <p>THAT the said <hi>Joan Laxton, Mary Palmer, Anne Milbourne, Mary Cooke, Anne Geeves, Mary Bignell, Elizabeth▪ Page</hi> and <hi>Anne Sutton</hi> are poor People, who Sell small Provisions in <hi>Newgate</hi> Market, <hi>viz. Lamb, Pork, Butter, Eggs, Oat-Cakes, Hogs-Puddings, Sausages, &amp;c.</hi> in small quantities, None of them ever bringing more than an Horse-Load on any one Market-Day, for which by the Ancient Custom of the City of <hi>London,</hi> as also by an Act of <hi>Com<g ref="char:EOLhyphen"/>mon-Council,</hi> made the <hi>17th-September</hi> 1674, they ought not to pay more than 2 <hi>d. per</hi> Day.</p>
+               <p>That the said Persons, with many others, are placed by the <hi>Defendant</hi> and the other Farmers, under the <hi>Pent-Houses</hi> of the Inhabitants adjoin<g ref="char:EOLhyphen"/>ing to the said Market, and all the Accommodation or Conveniency any of them have from the Farmers, is a <hi>Moveable-Board</hi> whereon to lay their Provisions, for which they pay as <hi>s<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t forth in the Information,</hi> viz. <hi>Joan Laxton</hi> for a Board about 9 Square Feet 2 <hi>s. 6 d▪ per</hi> Week; <hi>Mary Palmer</hi> for a Board about 15 Square Feet, 2 <hi>s. 4 d. per</hi> Week; <hi>Anne Milbourne</hi> for the standing of 2 Dossars without any Board <hi>6d. per</hi> day; <hi>Mary Cooke</hi> for a Board about Eight Square Feet 2 <hi>s. 4 d. per</hi> Week; <hi>Anne Geeves</hi> for a Board about 18 square Feet 3 <hi>s. 8 d. per</hi> Week; <hi>Mary Bignell</hi> for a Board about 15 square Feet 2 <hi>s. 6 d. per</hi> Week; <hi>Elizabeth Page</hi> for a Board about 20 square Feet 2 <hi>s. 4 d. per</hi> Week; and <hi>Anne Sutton</hi> for the standing of two Dossars without any Board 9 <hi>d. per</hi> Day. The best of which Boards cannot cost the Farmers above 7 <hi>s.</hi> and some of them not half so much, which is all the Charge they are at, for accommodating the said Persons, and one of the said Boards may last for that use above Twenty Years. And the poor People have no shelter but under the Pent-houses of the Neighbouring Inhabitants as aforesaid; for which, and for obstructing the Light and Passages of
+<pb n="6" facs="tcp:33393:4"/> the Inhabitants Houses, they are generally obliged to pay them a Con<g ref="char:EOLhyphen"/>sideration, besides the excessive Rates extorted from them by the said Farmers, to their very great Burden and Oppression.</p>
+               <p>That by an Award lately made by Sir <hi>Nathan Wright,</hi> and Sir <hi>Bar<g ref="char:EOLhyphen"/>tholomew</hi>
+                  <note place="margin">Vide <hi>the Award, 4. Article.</hi>
+                  </note>
+                  <hi>Shower,</hi> grounded upon a Rule of the <hi>Court of Kings▪ Bench,</hi> the said Farmers are obliged to take no Advance or Increase of Rent upon pretence of any extraordinary Conveniency or Accommodation, above or more than the Expence and real Charge of making such extraordi<g ref="char:EOLhyphen"/>nary Conveniency or Accommodation.</p>
+               <p>That the Antient Rates and Duties paid before the <hi>Fire of London</hi> by<note place="margin">22 Car. 2. <hi>cap. 11. sect. 61.</hi>
+                  </note> the Market People for the same Accommodations, did never exceed <hi>2d. per</hi> Day; and sometime after the Fire, the City (pursuant to an Act of Parliament) set out and purchased Grounds for publick Mar<g ref="char:EOLhyphen"/>kets with Money given and appropriated by the said Act for that purpose: And the Dean and Chapter of St. <hi>Paul</hi>'s and their Successors are obliged thereby to make a Grant or Demise to the City of <hi>London,</hi> of the Ground set out for <hi>Newgate</hi> Market, from Forty Years to Forty Years for ever, at the Rent of <hi>4l. per Annum.</hi> So that the City, if they have any Authority, they have no reason or cause from their ex<g ref="char:EOLhyphen"/>traordinary Charge, to raise the ancient Tolls and Duties, and they could never answer the Charge in the late <hi>Quo Warranto</hi> for so doing.</p>
+               <p>That soon after the Ground was set out for the said Markets, fixt Stalls, with Racks and Sheds over them for Shelter, were built by the City round <hi>Newgate</hi> Market, about Fourteen Foot distance from the Houses of the Neighbouring Inhabitants; and in <hi>September</hi> 1674. the Common Council made an Act wherein the Rates and Duties to be paid by the Market People are Setled and Appointed, (<hi>viz.</hi>) For a Stall or Standing of Eight Foot long and Four Foot broad, which is Thirty two square Feet, for the Sale of Flesh Meat or Fish 2 <hi>s. 6 d. per</hi> Week, which is the highest Rate of any Stall in the Markets. For a Stall or Standing of Six Foot long and Four Foot broad, for the sale of Flesh, Meat or Fish 2 <hi>s. per</hi> Week. And for every Stall or Standing of Six Foot or Eight Foot long and Four Foot broad, for the sale of other Commodities, <hi>3d. per</hi> Day, Now by what followeth it is evident, that all these aforementioned Stalls and Standings, upon which these high Rates are set, are such as have Racks, and Sheds over them for shelter. For every Horse-load of Provisions, not upon Stalls nor under publick Shelter, <hi>2d. per</hi> Day. For every Dossar of like Provisions <hi>1d. per</hi> Day: Which is the Case of the Complainants, who have none of the afore-mentioned Stalls with Racks, under publick Shelter.</p>
+               <pb n="7" facs="tcp:33393:4"/>
+               <p>It cannot be supposed the Makers of the said Law designed the Mar<g ref="char:EOLhyphen"/>ket People should sell their Horse-loads of Provisions upon their Horses backs, there must be room to stand, and conveniency to shew the same in the said Market, intended for them by the said Act, for the <hi>2d. per</hi> Day. A Cart-load of Provisions with three Horses is but <hi>4d.</hi> and with Four Horses or more but <hi>6d. per</hi> Day by the said Act, and the bringers thereof must likewise have room and conveniency to show and sell the same for the said Rates.</p>
+               <p>
+                  <hi>Note,</hi> The Farmers of the Markets have in their Lease expresly Covenanted with the City not to exceed these Rates in their Receptions of the Market People, under the Penalty of 10l. for every Offence.</p>
+               <p>
+                  <hi>Note,</hi> Also, when first the Markets were Farmed to one Mr. <hi>Humfrey,</hi> he took of these sort of People but <hi>2d. per</hi> Day without Boards, and <hi>4d. per</hi> Day with Boards, and that only when they came, which was seldom more than two Days in the Week. But the present Farmers make them pay the Rates as before set forth in the Information, though they come but one or two Days, and sometimes never a Day in the Week.</p>
+               <p>
+                  <hi>Object.</hi> If objected that these People may have room in other parts of the Market for <hi>2d. per</hi> Day.</p>
+               <p>
+                  <hi>Respons.</hi> The fixed Stalls under shelter are filled with Butchers, and the Inside of the said Market is filled with Gardiners, Fruiterers, Carts▪ and Pannyers all the Morning of every Market-day, so that there is hardly room to stir, and the said Farmers are at no more Charge for them where they stand, than if they stood in any other part of the Market. The benefit of shelter is under the Pent-houses as aforesaid, for which the Farmers or City do not pay any thing. And it is con<g ref="char:EOLhyphen"/>ceived that the Farmers have no Right to demand or take any advance or increase of Rent for the People standing there, more than in any other part of the Market.</p>
+               <p>
+                  <hi>Obj.</hi> If objected, that 4 <hi>d. per</hi> Week of the Money that the Farmers take of these poor People is for weighing their Provisions.</p>
+               <p>
+                  <hi>Resp.</hi> Most of these Provisions are not sold by weight, and those that are, the People are forced to get weighed at the Scales of the Neigh<g ref="char:EOLhyphen"/>bouring Inhabitants; the Farmers not providing any Weights or Scales in any convenient place where they can come at them.</p>
+               <pb n="8" facs="tcp:33393:5"/>
+               <p>
+                  <hi>Obj.</hi> If pretended the Farmers take part of the Money for the use of Ground besides the Boards.</p>
+               <p>
+                  <hi>Resp.</hi> Most of these People have no other use of Ground but in Com<g ref="char:EOLhyphen"/>mon with other People that come to Market either to fell or buy, and if they have, the said Act makes a great difference between the Rates on Stalls, and bare Ground; Thirty six square Feet of bare Ground being not above 20 <hi>s. per Annum,</hi> by the said Act. <hi>See the Rates for Gardners,</hi> &amp;c.</p>
+               <p>
+                  <hi>Obj.</hi> If alledged, that the Farmers are at great Charge in Manage<g ref="char:EOLhyphen"/>ment of their Farm.</p>
+               <p>
+                  <hi>Resp.</hi> They are at no other Charge for these sort of Market People, than finding them moveable Boards, the best of which hardly cost above 7 <hi>s.</hi> and may last Twenty Years.</p>
+               <p>
+                  <hi>Obj.</hi> If alledged, that this Prosecution is begun and carried on by Neighbouring Inhabitants.</p>
+               <p>
+                  <hi>Resp.</hi> They are under a necessity so to do, in their own Defence, as well as in Charity to the Poor People, the Farmers having Ruined many of these sort of Poor People, and drove them from the Market, they would now oblige the House-keepers to pay their Extortious De<g ref="char:EOLhyphen"/>mands, for having their own Doors and Shop-Windows free from these unreasonable Incumbrances.</p>
+            </div>
+            <div type="affidavits">
+               <head>Divers <hi>Affidavits,</hi> touching the Information exhibited against <hi>Thomas Killner, &amp;c.</hi>
+               </head>
+               <div type="affidavit">
+                  <head type="sub">Dom' Rex <hi>versus</hi> Thomas Killner &amp; al'</head>
+                  <p>
+                     <hi>TOby Humfrey</hi> of the Parish of <hi>Kensington</hi> in the County of <hi>Mid<g ref="char:EOLhyphen"/>dlesex,</hi> Gent. maketh Oath, That he was a Farmer of the Pub<g ref="char:EOLhyphen"/>lick Markets of the City of <hi>London,</hi> from the Year 1676 until the Year 1684. And during all that time he this Deponant did provide Boards and Trussels for the Market People selling small Provisions in <hi>Newgate</hi> Market and other Publick Markets within the said City, who had occasion to use the same: And that the customary Demand of this
+<pb n="9" facs="tcp:33393:5"/> Deponant of the said Market People, for the use of the same and their said standings in the said Markets, was no more than 4 <hi>d. per</hi> Day with Boards and Trussels, and 2 <hi>d. per</hi> Day when they used none. And that they then seldom came to Market more than two Days in the Week, <hi>(viz.) Wednesdays</hi> and <hi>Saturdays.</hi> And this Deponant further maketh Oath, That such Boards and Trussels commonly used by the Market People, did not cost above 3 <hi>s.</hi> for one Board and two Trussels, and not above 2 <hi>s.</hi> for a Board without Trussels. And that there was also a Consideration paid, as this Deponant was informed and believes, by such Market People as stood under the Pent-houses of the Neigh<g ref="char:EOLhyphen"/>bouring Inhabitants to the Housekeepers for shelter, and for obstruct<g ref="char:EOLhyphen"/>ing their Lights and Passages.</p>
+                  <closer>
+                     <dateline>
+                        <hi>Jurat'</hi>
+                        <date>4. <hi>Feb.</hi> 1698.</date>
+                        <hi>Cor'</hi>
+                     </dateline>
+                     <signed>Tho. Rokeby.</signed>
+                     <signed>To. Humfrey.</signed>
+                  </closer>
+               </div>
+               <div type="affidavit">
+                  <head type="sub">Dominus Rex <hi>versus</hi> Thoma Killner.</head>
+                  <p>
+                     <hi>PHillip Clement</hi> of the Parish of <hi>Stepney</hi> in the County of <hi>Middlesex,</hi> Gent. maketh Oath, That he this Deponant was from the Year 1674, unto the 1682, or thereabouts, one of the Clerks of the City Markets, and did by the Order of Mr. <hi>Toby Humfrey</hi> and other Farmers of the said Markets, Lett the Stalls and Standings under the Pent-houses of the Inhabitants adjoining unto <hi>Newgate</hi> Market, and did collect the Rates and Duties paid for the same for the use of the said Farmers. But this Deponant did never, during all that time, take any thing more than Ordinary upon the account of Shelter under the said Pent-houses. And this Deponant further maketh, That he never Lett any Stalls by measure, but according to the measure of the Boards only, not reckoning any thing for the Ground on either side of the same, which the then Farmers (by whose Orders and Directions this Deponant acted) took to be the Intent of the Act of Common Council, made the 17th of <hi>Sept.</hi> 1974. and in the Mayoralty of Sir <hi>William Hooker,</hi> which was their Rule. And further this Deponant maketh Oath, That he received of the Market People, standing under the Pent-houses as afore<g ref="char:EOLhyphen"/>said, the Rates and Duties following, and no more; (that is to say) For every Dossar One Penny <hi>per</hi> Day; and for every Board with Trus<g ref="char:EOLhyphen"/>sels Four Pence <hi>per</hi> Day, and that only for such days as the Market People came to Market, and when they came not to Market they paid nothing.</p>
+                  <closer>
+                     <dateline>
+                        <hi>Jurat'</hi>
+                        <date>16 <hi>die Maii</hi> 1699.</date>
+                        <hi>Cor'</hi>
+                     </dateline>
+                     <signed>Tho. Rokeby.</signed>
+                     <signed>Phillip Clement.</signed>
+                  </closer>
+               </div>
+               <div type="affidavit">
+                  <pb n="10" facs="tcp:33393:6"/>
+                  <head type="sub">
+                     <hi>Dominus Rex</hi> versus <hi>Thoma Killner.</hi>
+                  </head>
+                  <p>
+                     <hi>RICE Sewen</hi> of the Parish of <hi>Christ-Church, London,</hi> Carpenter, maketh Oath, That he this Deponant did Measure and Value the Boards used in <hi>Newgate</hi> Market by several Persons named in an Infor<g ref="char:EOLhyphen"/>mation exhibited against Mr. <hi>Thomas Killner,</hi> and found them to be as followeth; <hi>(viz.) Joan Laxton</hi>'s Board, in measure four Foot two Inches long, and two Foot six Inches broad, in value five Shillings: <hi>Mary Cooke</hi>'s Board, five Foot eight Inches long, and one Foot eight Inches broad, value three Shillings: <hi>Mary Bignells,</hi> six Foot two Inches long, and two Foot nine Inches broad, value seven Shillings: <hi>Anne Geeves</hi>'s Board, six Foot eight Inches long, and two Foot eight Inches broad, value seven Shillings: And <hi>Elizabeth Page</hi>'s Board, six Foot long, and two Foot nine Inches broad, value seven Shillings. And this Deponant further maketh Oath, That the Persons using the said Boards, have no other shelter over them, but the Pent-houses of the Inhabitants adjoining to the said Market, which are maintained at the Charge of the several Owners thereof, without any Charge to the City of <hi>London,</hi> or the Farmers of the said Market, as this Deponant is in<g ref="char:EOLhyphen"/>formed and believes.</p>
+                  <closer>
+                     <dateline>
+                        <hi>Jurat'</hi>
+                        <date>18 <hi>die Maii,</hi> 1699.</date>
+                        <hi>Cor'</hi>
+                     </dateline>
+                     <signed>J. Holt.</signed>
+                     <signed>Rice Sewen.</signed>
+                  </closer>
+                  <argument>
+                     <p>Note, Rice Sewen <hi>hath been Carpenter to Mr.</hi> Killner <hi>and the other Farmers, and well knows the value of these Boards and Trussels.</hi>
+                     </p>
+                     <p>Note, Mary Palmer <hi>was since her</hi> Affidavit <hi>put out of the Market, and her Board taken away to prevent the Measurement thereof, as is supposed.</hi>
+                     </p>
+                     <p>Note, <hi>That these Boards are all the extraordinary Accommodation the Farmers provide, for any of these sort of Market People. And some of them have nothing but bare Ground, as</hi> Sutton <hi>and</hi> Mil<g ref="char:EOLhyphen"/>bourne, &amp;c.</p>
+                  </argument>
+               </div>
+               <div type="affidavit">
+                  <head type="sub">Dominus Rex <hi>versus</hi> Thoma Killner.</head>
+                  <p>
+                     <hi>JOAN Laxton</hi> of the Parish of St. <hi>Sepulchres, London,</hi> Widow, maketh Oath, That she this Deponant selleth small Butchers Meat in <hi>Newgate</hi> Market in <hi>London,</hi> under the Pent-house belonging to the House of <hi>Thomas Whitmore,</hi> upon a Board about three Foot and an half in length, and about three Foot in Breadth; for which standing Mr.
+<pb n="11" facs="tcp:33393:6"/>
+                     <hi>Thomas Killner</hi> and other the present Farmers of the Publick Markets of the City of <hi>London,</hi> did by <hi>Benjamin Stafford,</hi> one of their Agents, De<g ref="char:EOLhyphen"/>mand and Receive of this Deponant 2 <hi>s. 6 d. per</hi> Week, for about six Months; and this Deponant about Two Months since being two Weeks in Arrear for her said standing, was Arrested at the Suit of the said Mr. <hi>Killner</hi> and other the said Farmers of the Markets for the same, which she was compelled to pay: But soon after the said Arrest, this Deponant went to the said Mr. <hi>Killner</hi> and told him, that she was not able to pay 2 <hi>s. 6 d. per</hi> Week for her said standing, whereupon he or<g ref="char:EOLhyphen"/>dered this Deponant to pay but 2 <hi>s. per</hi> Week for the future, which she hath accordingly paid. And this Deponant further maketh Oath, That upon the 7th day of <hi>February</hi> Instant, one <hi>William Gregg,</hi> an A<g ref="char:EOLhyphen"/>gent of the said Farmers, demanded 2 <hi>s. 6 d. per</hi> Week again of this De<g ref="char:EOLhyphen"/>ponant, for her said Standing, and threatned to take away the Board upon which her Meat lay, if she did not pay the same. And this Deponant further maketh Oath, That she likewise pays a Consideration unto the said Mr. <hi>Whitmore</hi> for the benefit of the Shelter of his said Pent-house, and for Obstructing the Passage to his House. And fur<g ref="char:EOLhyphen"/>ther this Deponant maketh Oath, That she hath kept the same Stand<g ref="char:EOLhyphen"/>ing in the said Market, with the like Conveniencies, for about Eighteen years last past; and until of late years, she paid no more than 2 <hi>d. per</hi> day for such days only as she came to the said Market, and she paid nothing for such days as she did not come, but now the pre<g ref="char:EOLhyphen"/>sent Farmers compel her to pay the Rent aforesaid, if she doth not come one day in the Week to the said Market.</p>
+                  <closer>
+                     <dateline>
+                        <hi>Jurat'</hi>
+                        <date>8 <hi>die Feb.</hi> 1698.</date>
+                        <hi>Cor'</hi>
+                     </dateline>
+                     <signed>Tho. Rokeby.</signed>
+                  </closer>
+                  <argument>
+                     <p>Note, <hi>That one of the Farmers Men swore, That all Moneys above 16 d.</hi> per <hi>Week paid by</hi> Joan Laxton, <hi>was upon account of a Debt of 5l. she owed for Arrears of Rent, which she positively denied upon her Oath at the Tryal; and 'tis not very likely the Farmers should trust her whilest 5 l. run up, at 16 d. per Week, which is about a Year and an half.</hi>
+                     </p>
+                  </argument>
+               </div>
+               <div type="affidavit">
+                  <head type="sub">Dominus Rex <hi>versus</hi> Thoma Killner.</head>
+                  <p>
+                     <hi>MARY Palmer,</hi> Wife of <hi>Samuel Palmer,</hi> of the Parish of St. <hi>Botolph Bishopsgate,</hi> Weaver, maketh Oath, That on or about the 23d day of <hi>January</hi> last past, she made Application unto the above-named <hi>Thomas Killner,</hi> being one of the Farmers of the Publick Mar<g ref="char:EOLhyphen"/>kets of the City of <hi>London,</hi> for Admission to sell small Provisions in <hi>New<g ref="char:EOLhyphen"/>gate</hi>
+                     <pb n="12" facs="tcp:33393:7"/> Market, (<hi>viz.</hi>) Butter, Egs, Oatcakes, Hogs-Puddings, and Sau<g ref="char:EOLhyphen"/>sages, and the said <hi>Thomas Killner</hi> did demand of this Deponant 2 <hi>s. 4 d. per</hi> Week for standing under the Pent-house of <hi>James Dickson,</hi> who keeps a Victualling-House adjoining to the said Market. And upon <hi>Wednesday</hi> next following, being the 25th day of the said Month of <hi>January,</hi> this Deponant was by one of the Agents of the said Farmers placed under the aforesaid House, and furnished with a moveable Board laid upon Trussels, containing about five Foot and an half in length, and about 3 Foot in breadth, for the show of her said Provisions; and upon <hi>Saturday</hi> last past, being the 28th day of <hi>January</hi> aforesaid, The said Agent of the Farmers demanded and took of this Deponant 2 <hi>s. 4 d.</hi> as Rent for that Week for the said Board and Standing: And the said <hi>James Dickson</hi> likewise demanded and took of this Deponant 2 <hi>s.</hi> for her standing before his Window, and Obstructing his Passage and Light; both which sums make 4 <hi>s. 4 d. per</hi> Week. And this Deponant further maketh Oath, That the first Cost of all the Provisions that she sold that Week in the said Market, did not exceed 10 <hi>s.</hi> And that she shall be disabled from keeping the said Market (as she hath been inform'd divers other Persons have been) by reason of such Exactions.</p>
+                  <closer>
+                     <dateline>
+                        <hi>Jurat,</hi>
+                        <date>8 <hi>die Feb.</hi> 1698.</date>
+                        <hi>Cor'</hi>
+                     </dateline>
+                     <signed>Tho. Rokeby.</signed>
+                  </closer>
+                  <argument>
+                     <p>Note, <hi>This Affidavit Gives an undeniable Demonstration of about Eight Shillings in the Pound advanced upon the Prices of Victuals sold in the said Market, by reason of th<gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>se Exactions, which must needs be a very great Burthen and Detriment to the Publick.</hi>
+                     </p>
+                     <p>
+                        <hi>Supposing this poor Woman's Stall-Board had been eight Foot Long and four Foot Broad, and under Publick Shelter, (which it was not) the said Farmers could justifie by the Act of Common Council the taking no more then Three Pence</hi> per <hi>Day, which is but One Shilling</hi> per <hi>Week.</hi> See the Act 'tis supposed the House Keepers have no right to de<g ref="char:EOLhyphen"/>mand any thing.</p>
+                  </argument>
+               </div>
+               <div type="affidavit">
+                  <head type="sub">Dominus Rex <hi>versus</hi> Thoma Killner</head>
+                  <p>
+                     <hi>ANNE Milbourne,</hi> Wife of <hi>Daniel Milbourne,</hi> of <hi>London,</hi> in the County of <hi>Middlesex,</hi> Farmer, Maketh Oath, That she hath for divers Years kept <hi>Newgate</hi> Market, in <hi>London,</hi> commonly two days in a Week with only two Dossars of small Provision each day for which formerly she paid no more than two Pence <hi>per</hi> day when she came, but when she did not come she paid nothing. But for some time past Mr. <hi>Thomas Killner</hi> and other the present Farmers of the
+<pb n="13" facs="tcp:33393:7"/> said Market, have, by <hi>Benjamin Stafford,</hi> one of their Agents, demand<g ref="char:EOLunhyphen"/>ed and taken of this Deponant one Shilling <hi>per</hi> Week, whether she came or not. And this Deponant further Maketh Oath, That she pays Fifty Shillings <hi>per Annum</hi> besides, unto Mr. <hi>John Thompson,</hi> for standing under the Pent-house belonging to his House for shelter.</p>
+                  <closer>
+                     <dateline>
+                        <hi>Jurat'</hi>
+                        <date>8 <hi>Feb.</hi> 1698.</date>
+                        <hi>Cor'</hi>
+                     </dateline>
+                     <signed>John Turton.</signed>
+                  </closer>
+               </div>
+               <div type="affidavit">
+                  <head type="sub">Dominus Rex <hi>versus</hi> Thoma Killner</head>
+                  <p>
+                     <hi>MARY Cooke,</hi> Wife of <hi>John Cooke,</hi> of the Parish of <hi>Christ-Church, London,</hi> Butcher, Maketh Oath, That she selleth small Butch<g ref="char:EOLhyphen"/>ers Meat in <hi>Newgate</hi> Market, <hi>London,</hi> under the Pent-house of <hi>John Whiteing,</hi> upon a Board about six Foot in length, and about eighteen Inches in Breadth, for which the Farmers of the Markets have, by their Agents, demanded and recieved of and from this Deponant 2 <hi>s. 4 d. per</hi> Week, for several Months last past.</p>
+                  <closer>
+                     <dateline>
+                        <hi>Jurat'</hi>
+                        <date>6 <hi>Feb.</hi> 1698.</date>
+                        <hi>Cor'</hi>
+                     </dateline>
+                     <signed>Tho. Rokeby.</signed>
+                  </closer>
+               </div>
+               <div type="affidavit">
+                  <head type="sub">Dominus Rex <hi>versus</hi> Thomas Killner.</head>
+                  <p>
+                     <hi>ANNE Geeves,</hi> Wife of <hi>John Geeves,</hi> of the Parish of St. <hi>Andrews▪ Holborne,</hi> Labourer, maketh Oath, That she this Deponant hath ever since <hi>Christmas</hi> last past sold small Provisions in <hi>Newgate</hi> Market, in <hi>London,</hi> under the Pent-house of Mr. <hi>Roger Cousins,</hi> Grocer, upon a moveable Board about 6 Foot in length, and about 3 Foot in breadth. And this Deponant further maketh Oath, That the Farmers of the said Market have by their Agents demanded and received of and from this Deponant 3 <hi>s. 8 d. per</hi> Week, for the use of the said Board, and stand<g ref="char:EOLhyphen"/>ing under the said Pent-house ever since <hi>Christmas</hi> as aforesaid.</p>
+                  <closer>
+                     <dateline>
+                        <hi>Jurat'</hi>
+                        <date>6. <hi>Feb.</hi> 1689.</date>
+                        <hi>Cor'</hi>
+                     </dateline>
+                     <signed>Tho. Rokeby.</signed>
+                  </closer>
+               </div>
+               <div type="affidavit">
+                  <head type="sub">Dominus Rex <hi>versus</hi> Thoma Killner.</head>
+                  <p>
+                     <hi>WIlliam Bignall,</hi> of the Parish of St. <hi>Andrews Holborne,</hi> Carpenter, maketh Oath, That <hi>Mary Bignall,</hi> this Deponant's Wife, sell<g ref="char:EOLhyphen"/>eth
+<pb n="14" facs="tcp:33393:8"/> small Butchers Meat in <hi>Newgate</hi> Market, in <hi>London,</hi> under the Pent-house belonging to the House of <hi>Samuel Tomlinson,</hi> upon a move<g ref="char:EOLhyphen"/>able Board about six Foot in length, and about two Foot in breadth, for which Standing the present Farmers of the Publick Markets of the City of <hi>London,</hi> have for several Months last past demanded and received of and from this Deponants said Wife 2 <hi>s. 6 d. per</hi> Week.</p>
+                  <closer>
+                     <dateline>
+                        <hi>Jurat'</hi>
+                        <date>6. <hi>Feb.</hi> 1689.</date>
+                        <hi>Cor'</hi>
+                     </dateline>
+                     <signed>Tho. Rokeby.</signed>
+                  </closer>
+               </div>
+               <div type="affidavit">
+                  <head type="sub">Dominus Rex <hi>versus</hi> Thoma Killner.</head>
+                  <p>
+                     <hi>ELizabeth Page,</hi> of the Parish of St. <hi>James's Clarkenwell,</hi> Widow, maketh Oath, That she selleth small Meat in <hi>Newgate</hi> Market, <hi>London,</hi> upon a movable Board about six Foot in length, and three Foot in breadth, under the Pent-house of <hi>James Dickson,</hi> Victualer, for which Mr. <hi>Thomas Killner</hi> and other the Farmers of the said Market have, by <hi>Benj. Stafford</hi> one of their Agents, demanded and received from this Deponant 2 <hi>s. 4 d. per</hi> Week, and the said <hi>James Dickson</hi> hath demanded of this Deponant some Rent for Obstructing his Light and Passage; and this Deponant paid unto Mr. <hi>Samuel Ball▪</hi> who lived in the same House that the said Mr. <hi>Dickson</hi> now liveth, 4 <hi>l. per Annum,</hi> for the obstructing his Light and Passage.</p>
+                  <closer>
+                     <dateline>
+                        <hi>Jurat'</hi>
+                        <date>8. <hi>Feb.</hi> 1698.</date>
+                        <hi>Cor'</hi>
+                     </dateline>
+                     <signed>John Turton.</signed>
+                  </closer>
+               </div>
+               <div type="affidavit">
+                  <head type="sub">Dominus Rex <hi>versus</hi> Thoma Killner.</head>
+                  <p>
+                     <hi>ANNE Sutton,</hi> Wife of <hi>John Sutton,</hi> of <hi>Hendon</hi> in the County of <hi>Middlesex,</hi> Farmer, maketh Oath, That she keepeth <hi>Newgate</hi> Market, in <hi>London,</hi> commonly two days in the Week, with two Dos<g ref="char:EOLhyphen"/>sars of small Meat and other Provisions, which she selleth under the Pent-house of <hi>Smith</hi> a Cheesemonger, and hath no Conveniency or Accommodation provided by Mr. <hi>Thomas Killner,</hi> or any other Far<g ref="char:EOLhyphen"/>mer of the City Markets, otherwise than as aforesaid, nor any Boards or Trussels for the putting her Provisions upon; and yet notwithstanding the said Mr. <hi>Killner</hi> and the other Farmers have, by one <hi>Benj. Stafford</hi> one of their Agents, demanded and taken of this Deponant 18 <hi>d. per</hi> Week upon account of her Standing as aforesaid, for several Months past, whether she came to the said Market or not. And this Deponant far<g ref="char:EOLhyphen"/>ther maketh Oath, That she hath no shelter but from the Pent-house of
+<pb n="15" facs="tcp:33393:8"/> the said Mr. <hi>Smith</hi> as aforesaid, for which she pays a Consideration to the said Mr. <hi>Smith,</hi> and for Obstructing the Passage to his House. And this Deponant further maketh Oath, That she formerly paid no more than two Pence <hi>per</hi> Day for the same Conveniency.</p>
+                  <closer>
+                     <dateline>
+                        <hi>Jurat'</hi>
+                        <date>8. <hi>Feb.</hi> 1698.</date>
+                        <hi>Cor'</hi>
+                     </dateline>
+                     <signed>John Turton.</signed>
+                  </closer>
+                  <argument>
+                     <p>
+                        <hi>Note,</hi> These Eight last Affidavits shew something of the Practice of the present Farmers, and the Two first Affidavits prove the Judgment and Practice of the former, touching the Rates and Duties settled by an Act of Common Council made the 17th of <hi>September</hi> 1674, which said Act was a Rule to the first Farmers (in their Demands and Re<g ref="char:EOLhyphen"/>ceptions of the Market People) as it ought to be to the present, whose Lease doth not only refer thereunto, but likewise unto a Lease made in the Year 1677, by the City unto Mr. <hi>Toby Humfrey,</hi> one of the former Farmers, wherein many of the Rates allowed to be taken by the said Act are reduced, by reason they could not be justified be<g ref="char:EOLhyphen"/>fore a Committee of Parliament appointed to inspect the same, upon a Complaint made by the Market People about the Year 1676.</p>
+                  </argument>
+               </div>
+            </div>
+            <div type="part">
+               <p>
+                  <hi>Object.</hi> If it be objected, the former Farmers paid less Rent for the said Markets than the present.</p>
+               <p>
+                  <hi>Answer.</hi> The present Farmer Mr. <hi>Killner</hi> proposed to take them as held by Mr. <hi>Toby Humfrey,</hi> and took them over his Head; and the said Mr. <hi>Humfrey</hi> hath since offered to the City the same Rent, and more than what the present Farmers pay.</p>
+               <p>
+                  <hi>Note,</hi> The Dean and Chapter of St. <hi>Paul</hi>'s, pursuant to the afore<g ref="char:EOLhyphen"/>said Act of Parliament, made a Demise to the said City of Twenty three thousand seven hundred ninety and seven Foot of Ground for the said Market Place, besides Ways and Passages leading thereunto. But the whole Extent of the Ground Plat to the Uprights of the Houses, round the said Market, is at least Twenty nine thousand four hundred fif<g ref="char:EOLhyphen"/>ty and one Feet, which is Claimed and Lett out by the City Farmers to the Market People, which said Farmers pretend a Right to Demand and take about One Penny <hi>per</hi> Week for every square Foot, not only for Boards and Stalls, but for bare Ground also, which doth amount to One hundred twenty and two Pounds Fourteen Shillings and Three<note place="margin">☜</note> Pence <hi>per</hi> Week; and is Six thousand three hundred eighty one Pound and One Shilling <hi>per Annum.</hi> Now if the said Farmers can<note place="margin">☜</note> justifie the taking the said Rates, of about One Penny <hi>per</hi> Week in <hi>Newgate</hi> Market, for every square Foot, not only for Boards and Stalls,
+<pb n="16" facs="tcp:33393:9"/> but likewise for bare Ground, they may do so by the same Authority in all the other publick Markets, and so may (if they now do not) make the Profits thereof arise to Twenty or Thirty thousand Pounds <hi>per Annum.</hi> And what a grievous Oppression this must needs be to the poor Market People who pay the same, is obvious; and how much it tends to the Inhancing the Prices of Provisions, to the wrong of the Publick, is worthy of Enquiry.</p>
+               <p>As the Ground for the said Markets was purchased with Money raised upon the Publick by Vertue of the aforesaid Act of Parliament. So no doubt the Markets were designed to be Free, Open and Common, and for the publick Advantage of all the Kings Subjects, who have occa<g ref="char:EOLhyphen"/>sion to use the same, either to sell or buy Food and Victuals, upon pay<g ref="char:EOLhyphen"/>ing a reasonable Toll or Duty bearing a due proportion to the neces<g ref="char:EOLhyphen"/>sary Charge the City is at in the Ground Rent and Management of the same; and what ever is taken more, is conceived to be Outragious and Oppressive, and against the Common and Statute Law of this Kingdom. <hi>See</hi> 3 Edw. I. <hi>cap. 31. and the Lord</hi> Coke'<hi>s Commentary upon the same.</hi>
+               </p>
+               <p>As the City cannot alienate the Market Ground, purchased as afore<g ref="char:EOLhyphen"/>said, to other Uses than for Publick and Common Markets: So nei<g ref="char:EOLhyphen"/>ther can they (as is conceived) convert the said Markets from their intended end, (<hi>viz.</hi>) Common and Publick Advantage, as is evident by the aforesaid Act of Parliament.</p>
+               <p>The City have been very careful in their Demise of the said Mar<g ref="char:EOLhyphen"/>kets, to prevent any occasion for Complaints of this nature, as may appear by the many excellent Clauses or Covenants in the Farmers Lease, some of which are to the Effect following, <hi>viz.</hi>
+               </p>
+               <p>The City in their Lease to the present Farmers, Demise the Ground so far only as they had power so to do, and as used for Markets, the 2d day of <hi>November</hi> 1686. or Four Years before. And they Demise the Tolls, Rates and Duties, as they are settled in an Act of Common Council made the 17th day of <hi>September,</hi> 1674. and in a Lease made to Mr. <hi>Toby Humfrey</hi> in the Year 1677.</p>
+               <p>The City in express Words except out of their Lease, all Ways and Passages leading unto, in, or about the said Markets; and the Farmers Covenant with the City to make no Incroachment under the forfeiture of Five Marks for every Offence, and four times the value they shall make by every Incroachment. And they Covenant to Endempnify the City from the Dean and Chapter of St. <hi>Paul</hi>'s, by reason of any Build<g ref="char:EOLhyphen"/>ing or Erections in <hi>Newgate</hi> Market.</p>
+               <p>And they further Covenant with the City, That neither they nor their Assigns, nor any of them, shall or will Demand, Exact or Take any more or greater Rates, Rents, Duties, Tolls, or Prices of any
+<pb n="17" facs="tcp:33393:9"/> Person or Persons, using or keeping any of the said Markets, for his or their Shop-place, Stall, or Standing therein, Or for their Dossars, Baskets, Maunds, Carts, and Carriages, than such and so much, and in such manner as have heretofore (by the aforesaid <hi>Act of Common Council</hi>) been Limited, Appointed or Allowed. And in case they, or any of them, or their Assigns, shall at any time, during the said Term of their Lease, Exact or Take any greater Rates or Duties than as afore<g ref="char:EOLhyphen"/>said. Then in such case, they or some of them shall and will pay unto the <hi>Mayor</hi> and <hi>Commonalty,</hi> &amp;c. or their Successors, for every time they shall so Exact, the Sum of Ten Pounds.</p>
+               <p>The said Farmers further Covenant with the City, Not to disturb or remove any of the <hi>Market People</hi> from their Stalls or Standings without their free Consent, they paying the Settled Rates and Duties, and be<g ref="char:EOLhyphen"/>ing conformable to the Rules of the said Markets. And where any Differences do arise between the said Farmers and the Market-People touching any Rates and Duties to be paid, or the placing or displacing of any Person or Persons, The said Farmers are obliged to abide by the Determination of the <hi>Court of Aldermen. Provided</hi> such Determination do not abridge them of any of the Rates and Duties to be taken by vertue of the aforesaid <hi>Act of Common Council</hi> made the 17th of <hi>Septemb.</hi> 1674.</p>
+            </div>
+         </div>
+         <div type="legal_case">
+            <head>The <hi>Case</hi> of the Inhabitants adjoining to <hi>Honey-Lane</hi> and <hi>Newgate</hi> Markets, as Presented to a Committee of <hi>Common-Council,</hi> appointed the 29th of <hi>May, 1696.</hi> to Consider of the Abuses committed by the <hi>Farmers</hi> of the <hi>Markets,</hi> and of Methods for Redress thereof, <hi>&amp;c.</hi>
+            </head>
+            <p>WE whose Names are Under-Written, Inhabitants adjoyning to <hi>Honey-Lane</hi> Market, do hereby Testifie and Declare, That be<g ref="char:EOLhyphen"/>fore Mr. <hi>Burdet</hi> was concerned in Farming the Markets of this City, we with others the Inhabitants about the said Market, did quietly en<g ref="char:EOLhyphen"/>joy the Stalls belonging to our respective Houses, for the shew and Sale of our Goods and Merchandize; and had between our Stalls and the Channel, which was the Verge of the said Market, about Nine Foot of Pavement which we maintained, as obliged by our Leases, at our own Charge: But some time after the said Mr. <hi>Burdet,</hi> with the other Far<g ref="char:EOLhyphen"/>mers, were concerned in the said Market, they pluck'd up the said
+<pb n="18" facs="tcp:33393:10"/> Pavement, and removed the said Channel, and put up Racks and Stalls close to the very uprights of our Houses, and have Arrested and put In<g ref="char:EOLhyphen"/>formations in the <hi>Crown-Office,</hi> against many of us, and many other that opposed them, to our very great Loss and Damage, and have obliged some of our Neighbourhood to leave their Houses, and others of us to pay them a certain Rent for Liberty to show the Goods we sell in our Shops, otherwise they would not have suffered us to have Opened our Shop-Windows on the out-side of our Houses, tho some of us pay 60 <hi>l. per Annum</hi> Rent; and to deter us from contesting the Right of these Matters at Common Law, Mr. <hi>Burdet</hi> tells us, they will spend a <hi>Thousand Pound</hi> before they will loose a Cause, and wishes he could find a Man that dares spend a Thousand Pound with them. And those of us that do not comply with the said Farmers to pay them a standing-Rent, as aforesaid, have our Doors Lett out to others, some at 10 <hi>l. per Annum,</hi> by the said Farmers.</p>
+            <p>AND We do futher Attest and Declare, That before the present Farmers took the Markets to farm, there were never any inclosed Shops in the said Market of <hi>Honey-Lane,</hi> and never but one attempted to be put up, which was in the Mayorality of Sir <hi>William Prichard;</hi> and Com<g ref="char:EOLhyphen"/>plaint being made to him thereof, he order'd it immediately to be pull'd down, which was accordingly done; But since the said Farmers▪ have been concern'd, they have caused to be Erected Fourteen or Fif<g ref="char:EOLhyphen"/>teen inclosed Shops, which they Lett out, some to Handicrafts and to several other Trades.</p>
+            <p>AND Whereas the said Market was formerly well filled with Country Market-People, There is not now left, by reason of their A<g ref="char:EOLhyphen"/>buses, above Ten or Twelve Country-People who bring Victuals there to Sell. But are gone some to <hi>Spittle-Fields,</hi> and other Foreign Mar<g ref="char:EOLhyphen"/>kets.</p>
+            <p>THE Inhabitants about <hi>Newgate▪</hi> Market, made Cumplaints to the said Committee to the like effect, Setting forth, That whereas the City had a Grant from the Dean and Chapter of St. <hi>Paul</hi>'s, confirm'd by Parliament, of 23797 superficial Feet of Ground, to be used for a Mar<g ref="char:EOLhyphen"/>ket-Place Three or Four Days in the Week; the said Farmers notwith<g ref="char:EOLhyphen"/>standing, Claimed and Lett out to Market-People 29451 Foot of Ground, which is the full Extent of superficial Feet to the uprights of their Houses, round the said Market, and is, as they humbly conceive, 5654 Foot of Ground more than the City Purchased: Upon which the said Committee made the following Order, <hi>Viz.</hi>
+            </p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="order">
+                        <opener>
+                           <dateline>
+                              <date>Mercurij 26 <hi>die August</hi> 1696. <hi>Anno{que} R. R.</hi> Willielm. III. <hi>Angl. &amp;c.</hi> 8.</date>
+                           </dateline>
+                        </opener>
+                        <p>THe Petition of several Inhabitants in <hi>Newgate-Market</hi> was Read, And the Committee advised them to Sue for their Ground before their Houses, detained from them by the Far<g ref="char:EOLhyphen"/>mers
+<pb n="19" facs="tcp:33393:10"/> of the Markets, And the Comptroler is <hi>Ordered</hi> to produce any of the Cities Books, Deeds or other Writings as Evidence, on their behalf, for the said Ground in any Tryal at Law for the same, And Leave is given him to be of their Council.</p>
+                        <closer>
+                           <signed>Nich. Willmot Comptroler.</signed>
+                        </closer>
+                        <argument>
+                           <p>Note, <hi>That When the Stalls of</hi> Honey-Lane <hi>Market were at first set out, a Committee of</hi> Aldermen <hi>and</hi> Commons <hi>consulted the Neighbourhood how to set them at such a Distance as might be least offensive to the Hou<g ref="char:EOLhyphen"/>ses adjoining.</hi>
+                           </p>
+                        </argument>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+         </div>
+         <div type="verdict">
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="verdict">
+                        <opener>
+                           <dateline>
+                              <hi>London.</hi> At the General Quarter-Sessions of the Peace <date>in <hi>July, Anno Dom.</hi> 1696.</date>
+                           </dateline>
+                        </opener>
+                        <p>We the Grand Inquest sworn to inquire for the Body of the City <hi>London,</hi> do Present as followeth, <hi>viz.</hi>
+                        </p>
+                        <p>
+                           <label>Imprimis,</label> WE present <hi>Thomas Burdett,</hi> of the Parish of St. <hi>Peters Cheap, Lon<g ref="char:EOLhyphen"/>don,</hi> and <hi>Thomas Killner,</hi> of the Parish of St. <hi>Dunstan</hi>'s <hi>in the East, London,</hi> for that they with divers other Persons unknown, Far<g ref="char:EOLhyphen"/>mers of the several Markets within this City, executing the Office of Clerk of the said several Markets, have Extorted, and do by themselves, their Servants and Agents extort several considerable Sums of Money from many of his Majesty's Subjects, for Fines for the admittance of, or liberty for the said Persons to sell Victuals and other Provisions in the said Markets; And for that they do daily Extort from great numbers of his Majesty's Subjects, as well for Liberty to Stand and sell Provi<g ref="char:EOLhyphen"/>sions in the said Markets, and in other parts of the said City, several Sums of Money greatly exceeding the Rates and Prices by Law allowed.</p>
+                        <p>And for that they have and do greatly Oppress great Numbers of His Majesty's Subjects using the said Markets, (who do Oppose their unrea<g ref="char:EOLhyphen"/>sonable Demands) by many Vexatious Suits, to the Ruine of many Fami<g ref="char:EOLhyphen"/>lies; by which Practices the Rates and Prices of Provisions and Victuals are much encreased, to the great Prejudice of His Majesty's Subjects in<g ref="char:EOLhyphen"/>habiting in this City. </p>
+                        <closer>
+                           <dateline>
+                              <hi>Witness our Hands</hi>
+                              <date>
+                                 <hi>this Thirteenth Day of</hi> July, Anno Dom. 1696.</date>
+                           </dateline>
+                           <signed>
+                              <list>
+                                 <item>
+                                    <hi>Tho. Eyre,</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Thomas Emes,</hi>
+                                 </item>
+                                 <item>
+                                    <hi>James Collett,</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Nathan. Greene</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Jo. White,</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Abraham Hickman,</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Isaac Grevill,</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Thurston Withnell,</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Stephen Thompson,</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Thomas King,</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Jos. Wadley,</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Tho. Smith,</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Henry Clerke,</hi>
+                                 </item>
+                                 <item>
+                                    <hi>John Cowper,</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Samuel Rolfe.</hi>
+                                 </item>
+                              </list>
+                           </signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <pb n="20" facs="tcp:33393:11"/>
+            <p>By there few Instances, may be seen how careful the City hath been heretofore, to prevent and suppress these pernicious Practices. 'Tis said Sir <hi>William Gore,</hi> and the rest of the Committee appointed as afore<g ref="char:EOLhyphen"/>said, had the Thanks of the Common Council for what they did in these Matters.</p>
+            <p>
+               <hi>Note,</hi> The late Act of Parliament for making <hi>Billinsgate</hi> a Free Mar<g ref="char:EOLhyphen"/>ket, having already had such good Effects, (in reducing the Prices of Fim sold there almost one half, to the unspeakable Benefit of the Pub<g ref="char:EOLhyphen"/>lick, especially the Poor) 'tis hoped the Government will be induced to Inspect and Redress the Abuses committed in all the other Publick Markets.</p>
+            <p>The poor Market People Generally desire, That the Rates and Du<g ref="char:EOLhyphen"/>ties settled by an Act of Common Council, made the 17th of <hi>Septem<g ref="char:EOLhyphen"/>ber,</hi> 1674, Intituled, <hi>An Act for the Settlement and well Ordering of the several publick Markets within the City of</hi> London, may be explained and Regulated by the Practice of the said City, or their Farmers, in their Demands and Receptions (of the Market People) for the first Ten years after the said Act was made: And so much the rather, because as they are informed; the present Farmers, in their Grant from the Ci<g ref="char:EOLhyphen"/>ty, are Expresly referred unto a Lease made by the City unto Mr. <hi>Toby Humfrey</hi> in the year 1677, touching the Tolls, Rates, and Duties to be taken by them.</p>
+         </div>
+         <trailer>FINIS.
+<pb facs="tcp:33393:11"/>
+         </trailer>
+      </body>
+   </text>
+</TEI>
